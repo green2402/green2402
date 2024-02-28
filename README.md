@@ -1,5 +1,4 @@
-# hi
-> it's me
+
 <h1 align="center">Hi 👋, I'm NA YOUNG KIM</h1>
 - 📫 How to reach me **booklatte2@gmail.com**
 
